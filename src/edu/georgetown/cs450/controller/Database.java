@@ -46,7 +46,7 @@ public class Database {
     }
 
 
-    String url = "jdbc:mysql://localhost:3306/csc450?user=root&password=root";
+    String url = "jdbc:mysql://localhost:3306/csc450?user=root&password=";
 
 
 
